@@ -33,12 +33,12 @@
 Укажите минимальный набор конфигураций (браузер, ОС, язык сайта), который вы бы использовали для тестирования данного сайта.  
 **Ответ:**  
 При составления минимального набора конфигураций была использована техника попарного комбинирования.  Минимальный набор конфигураций будет следующий:  
-Windows 10 	Opera	EN  
-Windows 10 	Firefox	RU  
-Ubuntu 20.04	Firefox	EN  
-Ubuntu 20.04	Opera	RU  
-Android 10	Chrome	EN  
-Android 10	Chrome	RU  
+Windows 10   	Opera	  EN  
+Windows 10 	Firefox	  RU  
+Ubuntu 20.04	Firefox   EN  
+Ubuntu 20.04	Opera     RU  
+Android 10	Chrome	  EN  
+Android 10	Chrome	  RU  
 		
 ## 3.  
 **Ответьте на вопросы:**  
