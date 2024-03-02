@@ -7,7 +7,7 @@
  
 **Ответ:**  
 Метод: GET  
-URL запроса : https://ylab.io/ssr/state/40599u1lt9u5lxe  
+URL запроса : https://ylab.io/  
 Версия: http/2  
 
 - У вкладки “О компании” (https://drive.google.com/file/d/1fSPgT9usn6gEBGcQcnKaBlcWuJkBI-88/view?usp=sharing) определите цвет используемого шрифта. В ответе укажите его в формате r,g,b.
