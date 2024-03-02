@@ -13,7 +13,7 @@ URL запроса : https://ylab.io/
 - У вкладки “О компании” (https://drive.google.com/file/d/1fSPgT9usn6gEBGcQcnKaBlcWuJkBI-88/view?usp=sharing) определите цвет используемого шрифта. В ответе укажите его в формате r,g,b.
 
 **Ответ:**  
-10,184,182  
+(10,184,182)  
 
 ## 2.  
 Для API https://api.nasa.gov/planetary/apod  
